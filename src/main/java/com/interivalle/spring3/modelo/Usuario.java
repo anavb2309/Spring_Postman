@@ -14,7 +14,8 @@ import lombok.ToString;
 
 /**
  *
- * @author Maricela Velasco
+ * Cotizador Interivalle
+ * 
  */
 @Entity
 @Data
