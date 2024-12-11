@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 public interface IUsuarioServicio {
     

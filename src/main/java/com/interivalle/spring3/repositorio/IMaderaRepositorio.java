@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 public interface IMaderaRepositorio extends JpaRepository<Madera, String> {
     

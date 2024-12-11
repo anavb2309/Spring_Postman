@@ -8,7 +8,7 @@ import com.interivalle.spring3.modelo.ObraBlanca;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 public interface IObraBlancaServicio {
     

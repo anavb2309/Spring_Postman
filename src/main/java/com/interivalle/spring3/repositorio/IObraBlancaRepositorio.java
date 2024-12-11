@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 public interface IObraBlancaRepositorio extends JpaRepository<ObraBlanca, String>{
     
