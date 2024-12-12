@@ -18,6 +18,7 @@ import lombok.ToString;
 /**
  *
  * Cotizador Interivalle
+ * 
  */
 
 @Entity

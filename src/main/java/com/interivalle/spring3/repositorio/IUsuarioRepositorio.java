@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  *
  * Cotizador Interivalle
+ * 
  */
 public interface IUsuarioRepositorio extends JpaRepository<Usuario, String> {
     Optional<Usuario> findByEmail(String email);

@@ -9,6 +9,7 @@ import com.interivalle.spring3.modelo.Madera;
 /**
  *
  * Cotizador Interivalle
+ * 
  */
 public interface IMaderaServicio {
     

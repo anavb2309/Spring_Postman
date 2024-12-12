@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  *
  * Cotizador Interivalle
+ * 
  */
 public interface IObraBlancaRepositorio extends JpaRepository<ObraBlanca, String>{
     

@@ -9,6 +9,7 @@ import com.interivalle.spring3.modelo.ObraBlanca;
 /**
  *
  * Cotizador Interivalle
+ * 
  */
 public interface IObraBlancaServicio {
     
