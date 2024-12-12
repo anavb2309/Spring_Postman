@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 @Service
 public class ObraBlancaServicio implements IObraBlancaServicio{

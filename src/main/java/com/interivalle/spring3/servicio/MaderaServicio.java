@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Marysela Velasco
+ * Cotizador Interivalle
  */
 @Service
 public class MaderaServicio implements IMaderaServicio {
